@@ -5,6 +5,7 @@ I'm Peter, I work for [Cyted](https://cyted.ai). I like building cool and useful
 - I like functional programming
 - I also like [Rust](https://rust-lang.org)
 - Databases are fun
+- I've used [Neovim](https://neovim.io) so much that I can barely type without vim bindings
 
 These things make my life easier and help me build better and more useful apps and technology. I promise I'm not as boring as this README makes me sound. If you want, you can look at [my personal website](https://peterea.st).
 
