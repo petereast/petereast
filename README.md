@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Peter, I work for [Cyted](https://cyted.ai). I like building cool and useful technology while sometimes looking at surreal memes and complaining about old tech.
+I'm Peter, I like building cool and useful technology while sometimes looking at surreal memes and complaining about old tech.
 
 - I like functional programming
 - I also like [Rust](https://rust-lang.org)
